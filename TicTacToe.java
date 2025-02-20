@@ -1,4 +1,4 @@
-//© A+ Computer Science  -  www.apluscompsci.com
+//ï¿½ A+ Computer Science  -  www.apluscompsci.com
 //Name -
 //Date -
 //Class - 
@@ -21,14 +21,14 @@ public class TicTacToe
 	{
 
 
-
+		//row major order happen here
 
 	}
 
 	public String getWinner()
 	{
 
-
+		
 
 
 
@@ -46,6 +46,8 @@ public class TicTacToe
 	{
 		String output="";
 
+	//row major order again
+	//set for no printLn
 
 
 

@@ -14,7 +14,15 @@ public class Lab24d
 	{
 		Scanner file = new Scanner (new File("lab24d.dat"));
 
+		//read how many times you should read
 
+		//tic tac toe only wants this - file.nextLine()
+
+		//make a tictactoe object for each game in the file
+
+		//
+
+		//print the winner
 
 
 
